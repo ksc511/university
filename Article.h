@@ -1,5 +1,6 @@
 #ifndef ASSIGNMENT3_ARTICLE_H
 #define ASSIGNMENT3_ARTICLE_H
+
 #include <string>
 
 
@@ -27,6 +28,5 @@ public:
     void setCostPrice(float price);
     void setOrderDuration(int duration);
 };
-
 
 #endif //ASSIGNMENT3_ARTICLE_H
