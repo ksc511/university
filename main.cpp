@@ -13,7 +13,6 @@ int main() {
         return 1;
     }
 
-    //test
     //create an array to store values
     const int size = 5;
     Article articles[size];
